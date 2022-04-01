@@ -1,5 +1,2 @@
 Branch: CND
 Roll: 2021113016
-
-Roll: 2021113016
-Branch: CND
